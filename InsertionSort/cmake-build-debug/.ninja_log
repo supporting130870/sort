@@ -1,0 +1,4 @@
+# ninja log v6
+4	298	7561957085581609	build.ninja	3b3af0e76ac35871
+2	73	7561957147778629	CMakeFiles/InsertionSort.dir/InsertionSort.c.obj	6738b0734c716f0f
+73	158	7561957148495518	InsertionSort.exe	3e9ad40b44a920af
